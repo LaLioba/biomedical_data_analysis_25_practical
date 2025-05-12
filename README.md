@@ -1,0 +1,2 @@
+# biomedical_data_analysis_25_practical
+Sequenzierpraktikum

@@ -1,5 +1,5 @@
 # Biomedical data analysis
-## Introducton into epitranskriptomics
+## Epitranscriptomics
 
 Hey there ! Welcome to the epitranscriptomics lesson of Summer Semester 2025 !
 If you haven't heard of epitranscriptomics until last week this is nothing unusual. Modification analysis on the RNA in a large scale is just on the rise nowadays.

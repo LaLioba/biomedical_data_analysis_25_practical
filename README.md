@@ -1,5 +1,14 @@
 # Biomedical data analysis
-Sequenzierpraktikum
+## Introducton into epitranskriptomics
+
+Hey there ! Welcome to the epitranscriptomics lesson of Summer Semester 2025 !
+If you haven't heard of epitranscriptomics until last week this is nothing unusual. Modification analysis on the RNA in a large scale is just on the rise nowadays.
+Why is that so ? 
+Well before the Nanopore directRNA sequencing technology there have oly been indirect ways to sequence RNA modifications via chemical conversion of RNA bases (Bisulfite-Seq) or non sequencing based methods like Mass spectrometry to determine RNA modifications. This was due to the ft that sequencing by synthesis only allows the detection of the base identity while complementary DNA (cDNA) is synthesiszed. In Nanopore Sequencing the native RNA strand, which carries the chemical modifications, is translocated trhough the pore and is manifested in a characeristical current signal track.
+
+In this course you will learn how to use this modification information to analyse cancer risk genes on striking differences in the modification pattern. You will work with healthy human cell lines as control and a model cancer cellline to assess these differences. Please notice you will gereate a real scientific output here, since such an anylsis has not been published until now. Let's get this started ! 
+
+Please follow this quick installation quide on your linux machine to get ready for the coding session:
 
 ### Task 1: Install miniconda for package management of our environment
 mkdir -p ~/miniconda3

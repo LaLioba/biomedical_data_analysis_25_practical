@@ -54,4 +54,4 @@ code ./SAM_format_introduction.ipynb
 Whenever you want to run some lines of code please press the start button on the upper right corner of the code window. Then select "Python-Umgebung" / "Python environment" and following that "biomedical_practical_SS25".
 You should now be able to run all necessary tools wihtin the jupyter notebook. 
 
-### Task 7: Check the Introduction to tools and data formats necessary for Epitranscriptomic analysis and try to solve the tasks after the introduction in the jupyter notbook file
+### Task 7: Check the Introduction to tools and data formats necessary for Epitranscriptomic analysis and try to solve the tasks after the introduction in the jupyter notebook file

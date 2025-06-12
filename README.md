@@ -20,7 +20,7 @@ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 
 Follow the installation instructions
 
-``
+```
 rm ~/miniconda3/miniconda.sh
 ```
 

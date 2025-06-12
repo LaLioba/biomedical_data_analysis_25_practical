@@ -32,7 +32,11 @@ conda activate biomedical_practical_SS25.yml
 ```
 wget https://code.visualstudio.com/sha/download\?build\=stable\&os\=linux-x64 -O visual_studio_binary.tar.gz
 tar -xvf visual_studio_binary.tar.gz
+```
+
 #To start visual studio code type the following into the console:
+
+```
 VSCode-linux-x64/code 
 ```
 

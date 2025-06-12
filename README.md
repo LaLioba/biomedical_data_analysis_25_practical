@@ -34,7 +34,7 @@ wget https://code.visualstudio.com/sha/download\?build\=stable\&os\=linux-x64 -O
 tar -xvf visual_studio_binary.tar.gz
 ```
 
-#To start visual studio code type the following into the console:
+To start visual studio code type the following into the console:
 
 ```
 VSCode-linux-x64/code 

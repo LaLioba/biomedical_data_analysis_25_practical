@@ -29,7 +29,7 @@ rm ~/miniconda3/miniconda.sh
 ```
 cd ~/biomedical_data_analysis_25_practical
 conda env create -f biomedical_practical_SS25.yml
-conda activate biomedical_practical_SS25.yml
+conda activate biomedical_practical_SS25
 ```
 
 ### Task 3: Install Visual Studio Code

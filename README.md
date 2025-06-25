@@ -42,7 +42,7 @@ tar -xvf visual_studio_binary.tar.gz
 To start visual studio code type the following into the console:
 
 ```
-VSCode-linux-x64/code 
+VSCode-linux-x64/code --no-sandbox
 ```
 
 ### Task 4: Install the jupyter-notebook extension in VS Code
